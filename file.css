@@ -640,4 +640,13 @@ body {
     font-family:attack2;
 }
 
+#username::placeholder{
+        font-family:idgaf !important;
+}
+
+#password::placeholder{
+        font-family:idgaf !important;
+}
+
+
 
